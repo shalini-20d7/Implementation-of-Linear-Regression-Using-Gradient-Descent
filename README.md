@@ -10,7 +10,7 @@ To write a program to predict the profit of a city using the linear regression m
 1. Load data
 2. Feature Scaling
 3. Parameters
-4. Gradiebt Descent
+4. Gradient Descent
 5. Plot
 
 ## Program:
